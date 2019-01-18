@@ -1,11 +1,22 @@
-h1 {
+.container {
+	width: 100%;
+	margin: 0%;
+	padding: 0%;
+	background-color: #bec0c4;
+}
+#header {
     min-width: 100%;
     text-align: center;
     font-size: 35px;
 }
-p {
+#header2{
     color: blue;
+    
+    width: 100%;
 }
 body {
-    background: green;
+    background-image: url("https://images.unsplash.com/photo-1547383185-822b76f62a05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
 }
